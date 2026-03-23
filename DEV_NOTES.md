@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Removed unused variable declarations
 - Updated dependencies to latest stable versions
+
+## 2026-03-23
+- Added basic usage examples to README
+- Added inline documentation for core functions
